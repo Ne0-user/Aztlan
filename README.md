@@ -46,11 +46,11 @@ Clases principals:
   
 4. Estructuras
 
-5. Recursos
+5. UI_hub
 
 6. Comunidad
 
-7. Humanos
+7. Humanos/Zombies
 
 8. Animales
 
