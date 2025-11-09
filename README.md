@@ -38,19 +38,21 @@ Herramientas:
 
 Clases principals:
 
-1. Ser vivo
+1. Mundo
 
-2. Terreno
+2. Ser vivo
+
+3. Terreno
   
-3. Estructuras
+4. Estructuras
 
-4. Recursos
+5. Recursos
 
-5. Comunidad
+6. Comunidad
 
-6. Humanos
+7. Humanos
 
-7. Animales
+8. Animales
 
 Referencias:
 
