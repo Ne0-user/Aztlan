@@ -1,0 +1,218 @@
+Quejas:
+El aldeano f{self.nombre} en serio odia el pescado.
+f{self.nombre} está harto de que siempre le toque limpiar el pozo.
+f{self.nombre} cree que el herrero le robó su pala.
+f{self.nombre} jura que las cabras conspiran en su contra.
+f{self.nombre} no soporta el canto del gallo por las mañanas.
+f{self.nombre} piensa que el panadero usa menos harina cada día.
+f{self.nombre} detesta cuando llueve justo después de tender la ropa.
+f{self.nombre} siente que nadie aprecia su trabajo en el campo.
+f{self.nombre} dice que las gallinas lo miran con desprecio.
+f{self.nombre} sospecha que alguien se roba sus nabos durante la noche.
+f{self.nombre} se queja de que el alcalde siempre promete y nunca cumple.
+f{self.nombre} no entiende por qué el río huele tan mal últimamente.
+f{self.nombre} dice que las ovejas son más tercas que su suegra.
+f{self.nombre} está cansado de pisar barro todos los días.
+f{self.nombre} afirma que los jóvenes ya no respetan a los mayores.
+f{self.nombre} no tolera el sonido de la flauta del pastor.
+f{self.nombre} está molesto porque el molino no funciona bien.
+f{self.nombre} piensa que los precios del mercado son un robo.
+f{self.nombre} se queja de tener que compartir herramientas con su vecino.
+f{self.nombre} dice que el carpintero nunca termina lo que empieza.
+f{self.nombre} cree que el sol lo persigue solo para molestarlo.
+f{self.nombre} no soporta el polvo que levanta el camino principal.
+f{self.nombre} reniega de los niños que juegan cerca de su huerto.
+f{self.nombre} está harto del perro del panadero que ladra toda la noche.
+f{self.nombre} asegura que las semillas de este año son malísimas.
+f{self.nombre} piensa que los dioses se olvidaron de bendecir su parcela.
+f{self.nombre} odia tener que ordeñar las vacas en invierno.
+f{self.nombre} murmura que el vino de la taberna ya no sabe igual.
+f{self.nombre} está cansado de que nadie le devuelva los cubos de agua.
+f{self.nombre} cree que las estrellas ya no brillan como antes.
+f{self.nombre} dice que si vuelve a escuchar hablar del "Héroe del Tiempo", va a mudarse de reino.
+f{self.nombre} jura que el mago de la torre se cree Gandalf y no limpia su propio jardín.
+f{self.nombre} se queja de que el tabernero siempre le pone menos cerveza que a Geralt.
+f{self.nombre} odia cuando los bardos cantan esa historia del dragón que “una vez fue humano”.
+f{self.nombre} dice que los soldados del castillo ven demasiadas series sobre caballeros.
+f{self.nombre} está harto de que todos usen capas negras "porque se ven misteriosos".
+f{self.nombre} asegura que el herrero copia los diseños de las armas de “Dark Souls”.
+f{self.nombre} se queja de que el aprendiz del mago habla todo el tiempo de “chakra”.
+f{self.nombre} cree que los aventureros arruinan los caminos más que los orcos.
+f{self.nombre} dice que los elfos actúan como si vivieran en una película de Peter Jackson.
+f{self.nombre} asegura que los niños no deberían jugar con piedras “como si fueran Pokéballs”.
+f{self.nombre} se queja de que el alquimista no deja de hablar de “metamorfosis completa”.
+f{self.nombre} odia cuando el bardo menciona que “el invierno se acerca”.
+f{self.nombre} dice que su suegra cree ser una Jedi.
+f{self.nombre} está harto de que le digan “¡fus ro dah!” cada vez que estornuda.
+f{self.nombre} dice que los magos jóvenes leen demasiado a Lovecraft.
+f{self.nombre} se queja de que los caballeros ahora quieren nombres en latín porque suena “cool”.
+f{self.nombre} jura que el alcalde es un Sith encubierto.
+f{self.nombre} dice que la nueva moda de usar túnicas negras no ayuda con el calor.
+f{self.nombre} está cansado de que los aventureros digan “esto me recuerda a un JRPG”.
+f{self.nombre} piensa que las monedas de oro deberían stackearse automáticamente.
+f{self.nombre} dice que el sistema de niveles es injusto con los campesinos.
+f{self.nombre} se queja de que la mazmorra local no tiene checkpoints.
+f{self.nombre} dice que los lobos son más duros que los minibosses de antes.
+f{self.nombre} odia cuando los héroes saquearon su casa “por loot”.
+f{self.nombre} dice que su gallina desapareció después de un bug.
+f{self.nombre} se queja de que su vida tiene demasiado grind y poca experiencia.
+f{self.nombre} cree que la IA del burro está peor que nunca.
+f{self.nombre} dice que los monstruos respawnean demasiado rápido.
+f{self.nombre} odia que los aventureros llamen “tutorial” a su pueblo.
+f{self.nombre} dice que el mago del este solo repite frases de Yoda.
+f{self.nombre} está cansado de que todos hablen del “multiverso”.
+f{self.nombre} dice que el druida local cree estar en un isekai.
+f{self.nombre} asegura que el panadero no es real, solo un NPC mal programado.
+f{self.nombre} se queja de que los bardos cobran DLC por canciones nuevas.
+f{self.nombre} dice que los dragones tienen demasiado protagonismo últimamente.
+f{self.nombre} jura que los zombis de antes daban más miedo.
+f{self.nombre} cree que la vida sería mejor si tuviera un minimapa.
+f{self.nombre} dice que los dioses parchean mal las actualizaciones del mundo.
+f{self.nombre} odia cuando el mago guarda partida sin avisar.
+
+
+Comentarios:
+f{self.nombre} ha empezado a creer que un duende de las nieves le roba los calcetines izquierdos.
+f{self.nombre} piensa que el sol es una linterna gigante encendida por los dioses.
+f{self.nombre} se pregunta si los patos saben que vuelan en forma de V.
+f{self.nombre} dice que las nubes se parecen a ovejas gigantes con sueño.
+f{self.nombre} sospecha que el viento tiene sentido del humor.
+f{self.nombre} piensa que el herrero habla con su yunque cuando nadie lo ve.
+f{self.nombre} cree que los árboles recuerdan las voces de quienes los tocan.
+f{self.nombre} se pregunta qué pasaría si el agua tuviera sabor a pan.
+f{self.nombre} dice que vio a un gato hablando con una luciérnaga.
+f{self.nombre} está convencido de que el eco tiene alma.
+f{self.nombre} cree que las piedras del río se mueven solas de noche.
+f{self.nombre} asegura que las flores entienden los cumplidos.
+f{self.nombre} piensa que los sueños son mensajes de los dioses aburridos.
+f{self.nombre} comenta que el fuego del hogar tiene personalidad propia.
+f{self.nombre} se pregunta si las ranas ríen bajo el agua.
+f{self.nombre} dice que la lluvia canta cuando cae sobre hojas grandes.
+f{self.nombre} sospecha que los caracoles viajan a reuniones secretas.
+f{self.nombre} cree que los gallos compiten a ver quién canta peor.
+f{self.nombre} comenta que el pan recién hecho huele a esperanza.
+f{self.nombre} piensa que los fantasmas solo buscan conversación.
+f{self.nombre} dice que las luciérnagas guardan pedacitos del sol.
+f{self.nombre} se pregunta por qué el trigo baila incluso sin viento.
+f{self.nombre} afirma que los sueños huelen distinto en verano.
+f{self.nombre} piensa que las sombras tienen sentimientos.
+f{self.nombre} cree que las cabras entienden el sarcasmo.
+f{self.nombre} dice que las estrellas titilan porque se ríen.
+f{self.nombre} sospecha que el pozo oculta un mundo al revés.
+f{self.nombre} comenta que los espantapájaros están tramando algo.
+f{self.nombre} piensa que el tiempo camina más lento los martes.
+f{self.nombre} asegura que las hadas usan las hojas como paraguas.
+f{self.nombre} piensa que el sabio del bosque podría ser un personaje secreto desbloqueable.
+f{self.nombre} dice que las nubes parecen chocobos gordos.
+f{self.nombre} sospecha que el alcalde usa trucos de “civilización avanzada”.
+f{self.nombre} dice que el mago local siempre murmura “Expecto algo”.
+f{self.nombre} asegura haber visto una sombra con forma de Pikachu.
+f{self.nombre} cree que las runas antiguas son en realidad QR mágicos.
+f{self.nombre} piensa que el dragón de la montaña solo quiere suscripción premium de sacrificios.
+f{self.nombre} comenta que las estrellas se alinean como en un logo de Marvel.
+f{self.nombre} dice que su gato responde solo al nombre “Gollum”.
+f{self.nombre} sospecha que el herrero es parte de una guild oculta.
+f{self.nombre} piensa que el bosque tiene side quests no descubiertas.
+f{self.nombre} asegura que el bardo usa auto-tune mágico.
+f{self.nombre} dice que si sube de nivel, pedirá una mejora de stamina.
+f{self.nombre} cree que el molino del pueblo está en early access.
+f{self.nombre} sospecha que los goblins tienen lag cuando atacan.
+f{self.nombre} dice que el hechicero del sur siempre habla en spoilers.
+f{self.nombre} asegura que los fantasmas buguean los espejos.
+f{self.nombre} piensa que la luna es una base secreta de magos.
+f{self.nombre} dice que los trolls usan memes para comunicarse.
+f{self.nombre} sospecha que el cura tiene habilidades pasivas ocultas.
+f{self.nombre} comenta que los caballeros de antes hacían menos “roleplay”.
+f{self.nombre} cree que los sueños son eventos limitados por temporada.
+f{self.nombre} dice que el cielo tiene mala resolución últimamente.
+f{self.nombre} piensa que los niños del pueblo son NPCs de tutorial.
+f{self.nombre} comenta que las vacas dropean poca leche últimamente.
+f{self.nombre} sospecha que el herrero usa hacks para fundir más rápido.
+f{self.nombre} cree que la realidad tiene un mal balance de clases.
+f{self.nombre} dice que la niebla matutina tiene shaders nuevos.
+f{self.nombre} piensa que el mago del norte está farmeando reputación.
+f{self.nombre} asegura que el pozo guarda un boss secreto.
+f{self.nombre} dice que los bardos están en modo narrador.
+f{self.nombre} sospecha que el granero tiene física de Bethesda.
+f{self.nombre} cree que el mundo se reinicia cada amanecer.
+f{self.nombre} comenta que el gallo canta con retardo de servidor.
+f{self.nombre} dice que los sueños tienen un mal sistema de guardado.
+f{self.nombre} piensa que el futuro será un DLC.
+f{self.nombre} asegura que el destino tiene bugs desde la última profecía.
+f{self.nombre} comenta que los dioses olvidaron actualizar el clima.
+f{self.nombre} dice que la vida real tiene mala optimización.
+
+
+
+Felicidad:
+f{self.nombre} está muy feliz porque el campo huele a flores.
+f{self.nombre} acaba de tener una gran cosecha y canta canciones raras.
+f{self.nombre} le agradece a la vida por no tener que pelear con lobos hoy.
+f{self.nombre} sonríe al ver el amanecer desde su ventana.
+f{self.nombre} disfruta el sonido del agua corriendo en el arroyo.
+f{self.nombre} siente que hoy todo saldrá bien.
+f{self.nombre} baila solo porque el viento le da ritmo.
+f{self.nombre} dice que los días soleados curan cualquier pena.
+f{self.nombre} está contento porque su pan salió perfecto.
+f{self.nombre} ríe sin razón, solo por el gusto de reír.
+f{self.nombre} da gracias porque las gallinas pusieron muchos huevos.
+f{self.nombre} canta mientras limpia su casa.
+f{self.nombre} disfruta ver a los niños correr por la plaza.
+f{self.nombre} comparte pan con su vecino y se siente en paz.
+f{self.nombre} disfruta ver crecer las flores que sembró.
+f{self.nombre} silba melodías antiguas mientras camina.
+f{self.nombre} dice que el olor a leña lo hace sentir en casa.
+f{self.nombre} siente orgullo de su trabajo en el campo.
+f{self.nombre} observa las estrellas y sonríe.
+f{self.nombre} dice que el cielo parece pintado por un artista.
+f{self.nombre} se alegra de tener buena salud.
+f{self.nombre} siente que hoy los dioses lo miran con favor.
+f{self.nombre} reparte frutas a los niños del pueblo.
+f{self.nombre} ríe recordando historias viejas junto al fuego.
+f{self.nombre} disfruta del silencio de la tarde.
+f{self.nombre} siente que su corazón late al ritmo de la naturaleza.
+f{self.nombre} mira su huerto y se siente afortunado.
+f{self.nombre} celebra que el molino funcione otra vez.
+f{self.nombre} canta a la luna mientras el pueblo duerme.
+f{self.nombre} dice que la vida, al final, no es tan mala.
+f{self.nombre} dice que hoy siente un buff de +10 en alegría.
+f{self.nombre} asegura que encontró un cofre lleno de pan y esperanza.
+f{self.nombre} dice que su jornada tuvo un crítico de felicidad.
+f{self.nombre} canta la canción del Opening mientras trabaja.
+f{self.nombre} se siente como Link encontrando un corazón extra.
+f{self.nombre} dice que hoy el sol tiene efecto de bendición.
+f{self.nombre} asegura que desbloqueó el logro “Día Perfecto”.
+f{self.nombre} siente que subió un nivel en paciencia.
+f{self.nombre} cree que la brisa tiene partículas de experiencia.
+f{self.nombre} dice que su jardín respawneó flores hermosas.
+f{self.nombre} se siente en modo cooperativo con la vida.
+f{self.nombre} canta como si fuera protagonista de un anime.
+f{self.nombre} dice que la mañana empezó con un soundtrack épico.
+f{self.nombre} asegura que hoy tiene buena sinergia con el universo.
+f{self.nombre} dice que el panadero le dio un buff de energía.
+f{self.nombre} siente que la naturaleza le lanzó una curación masiva.
+f{self.nombre} piensa que su día tiene 100% de drop rate de sonrisas.
+f{self.nombre} dice que el sol hizo un emote de saludo.
+f{self.nombre} asegura que su vida tiene ahora un modo foto activado.
+f{self.nombre} siente que el destino le dio una skin legendaria.
+f{self.nombre} comenta que su alma brilla con poder de amistad.
+f{self.nombre} dice que los pájaros hoy tienen OST de Studio Ghibli.
+f{self.nombre} asegura que su suerte está en nivel S.
+f{self.nombre} cree que desbloqueó el logro secreto “Buen Humor”.
+f{self.nombre} siente que hoy todo tiene partículas de anime.
+f{self.nombre} comenta que su sonrisa tiene buff de área.
+f{self.nombre} dice que el mundo hoy tiene antialiasing perfecto.
+f{self.nombre} siente que la vida tiene un nuevo parche optimista.
+f{self.nombre} cree que despertó en un evento especial limitado.
+f{self.nombre} dice que la felicidad tiene buen rendimiento hoy.
+f{self.nombre} asegura que el viento tararea el opening de su vida.
+f{self.nombre} comenta que su aura brilla en ultra calidad.
+f{self.nombre} dice que el destino lo subió de rango a protagonista.
+f{self.nombre} asegura que sus pasos tienen animación especial.
+f{self.nombre} dice que la vida tiene buena conexión hoy.
+f{self.nombre} siente que desbloqueó “Modo Relajado+”.
+f{self.nombre} cree que los dioses aplicaron un buff global de paz.
+f{self.nombre} comenta que su corazón late en ritmo de boss final feliz.
+f{self.nombre} dice que hoy es su crossover favorito con la realidad.
+f{self.nombre} siente que está en los créditos de su propio juego.
+
